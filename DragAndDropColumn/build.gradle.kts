@@ -81,10 +81,4 @@ publishing {
             }
         }
     }
-    repositories {
-        maven {
-            name = "DragAndDropColumn"
-            url = uri("${project.buildDir}/repo")
-        }
-    }
 }
