@@ -74,7 +74,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "com.github.maxusan"
             artifactId = "drag-and_drop-lazy-column"
-            version = "0.0.1"
+            version = "0.0.2"
 
             afterEvaluate {
                 from(components["release"])
