@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LazyReorderable"
 include(":app")
- 
+include(":DragAndDropColumn")

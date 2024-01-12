@@ -1,4 +1,4 @@
-package com.maxusan.lazyreorderable
+package com.maxusan.drag_and_drop_lazy_column
 
 enum class DragAndDropItemType {
     Draggable,

@@ -1,4 +1,4 @@
-package com.maxusan.lazyreorderable
+package com.maxusan.drag_and_drop_lazy_column
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.foundation.gestures.detectDragGesturesAfterLongPress
