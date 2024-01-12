@@ -1,3 +1,5 @@
+import org.jetbrains.kotlin.gradle.internal.Kapt3GradleSubplugin.Companion.isUseJvmIr
+
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
@@ -74,7 +76,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "com.github.maxusan"
             artifactId = "drag-and_drop-lazy-column"
-            version = "0.0.2"
+            version = "0.0.3"
 
             afterEvaluate {
                 from(components["release"])
