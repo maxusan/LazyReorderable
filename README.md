@@ -13,7 +13,7 @@ A Jetpack Compose library to provide Drag and Drop functionality for LazyColumns
 ## Demo
 
 Demo of the sample reorderable list without footer item.
-https://github.com/maxusan/LazyReorderable/assets/49410609/d1e6512c-2fec-402e-b307-5772f4946a6d
+![LazyReorderable-demo1](https://github.com/maxusan/LazyReorderable/assets/49410609/d24a3605-74d9-438f-88da-992c09028f94)
 
 ## Installation
 
